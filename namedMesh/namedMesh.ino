@@ -1,9 +1,3 @@
-//************************************************************
-// this is a simple example that uses the painlessMesh library
-// 
-// This example shows how to build a mesh with named nodes
-//
-//************************************************************
 #include "namedMesh.h"
 
 #define   MESH_SSID       "whateverYouLike"
