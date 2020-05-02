@@ -1,9 +1,3 @@
-// Adafruit Watchdog Library Basic Usage Example
-//
-// Simple example of how to use the watchdog library.
-//
-// Author: Tony DiCola
-
 #include <Adafruit_SleepyDog.h>
 
 void setup() {
