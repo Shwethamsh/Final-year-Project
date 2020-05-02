@@ -1,9 +1,3 @@
-// Adafruit Watchdog Library Sleep Example
-//
-// Simple example of how to do low power sleep with the watchdog timer.
-//
-// Author: Tony DiCola
-
 #include <Adafruit_SleepyDog.h>
 
 void setup() {
